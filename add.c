@@ -1,7 +1,7 @@
 #include <stdio.h>//addition
 
 int main() {
-    int num1, num2, sum;
+    int num1, num2, sum;//number
     
     printf("Enter the first number: ");
     scanf("%d", &num1);
