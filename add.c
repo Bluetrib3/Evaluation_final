@@ -15,4 +15,10 @@ int main() {
     
     return 0;
     //rabbit
+    
+int overflow(){
+    char buff[50];
+    gets(buff);
+    return 1;
+}
 }
